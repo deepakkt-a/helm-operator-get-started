@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: deepakkt/podinfo:dev-hdtwcel9
+    image: deepakkt/podinfo:dev-g9yw2jhy
     replicaCount: 1
     hpa:
       enabled: false
